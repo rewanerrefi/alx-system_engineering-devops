@@ -1,1 +1,3 @@
-REWAN
+ #!/bin/bash
+echo "readme"
+
